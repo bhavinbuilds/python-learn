@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # -----------------------------
-# JPMorgan Annual Finance Model
+# Bhavin Annual Finance Model
 # FY2021-FY2025
 # Units: USD Billions
 # -----------------------------
